@@ -1,6 +1,6 @@
-#Chewy Chocolate Chip Cookies by Sally McKenney
+# Chewy Chocolate Chip Cookies by Sally McKenney
 
-##Ingredients
+## Ingredients
 * 2 and 1/4 cups (281g) **all-purpose flour (spooned & leveled)**
 * 1 teaspoon **baking soda**
 * 1 and 1/2 teaspoons **cornstarch**
@@ -12,7 +12,7 @@
 * 2 teaspoons **pure vanilla extract**
 * 1 and 1/2 cups (250g) **semi-sweet chocolate chips** or **chocolate chunks**
 
-##Instructions
+## Instructions
 1. In a large bowl, whisk the flour, baking soda, cornstarch and salt together. Set aside.
 2. In a medium bowl, whisk the melted butter, brown sugar and granulated sugar together until no lumps remain. Whisk in the egg and egg yolk until combined, then whisk in the vanilla extract. The mixture will be thin. Pour into dry ingredients and mix together with a large spoon or spatula. The dough will be very soft, thick and shiny. Fold in the chocolate chips. The chocolate chips may not stick to the dough because of the melted butter, but do your best to combine them.
 3. Cover the dough tightly and refrigerate for at least 2 hours or up to 3 days. I highly recommend chilling the cookie dough overnight to prevent overspreading.
@@ -21,5 +21,5 @@
 6. Bake the cookies for 13-14 minutes or until the edges are very lightly browned. The centers will look very soft, but the cookies will continue to set as they cool. Cool on the baking sheet for 10 minutes before transferring to a cooling rack to cool completely.
 7. Store lightly covered at room temperature for up to 1 week.
 
-##Reference
+## Reference
 [Chewy Chocolate Chip Cookies](https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/)
